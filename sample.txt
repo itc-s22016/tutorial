@@ -1,3 +1,4 @@
 first commit
 さる先生のGitコマンド
 add 変更をインデックスに登録する
+kakikukeko
